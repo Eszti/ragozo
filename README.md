@@ -1,0 +1,2 @@
+# ragozo
+Hungarian conjugator
